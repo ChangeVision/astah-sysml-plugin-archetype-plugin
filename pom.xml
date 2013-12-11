@@ -3,16 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.change_vision.astah</groupId>
-  <artifactId>plugin-archetype</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <artifactId>sysml-plugin-archetype</artifactId>
+  <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
 
-  <name>Astah Plug-in Template Archtype Project</name>
+  <name>Astah SysML Plug-in Template Archtype Project</name>
 
   <distributionManagement>
     <site>
       <id>github</id>
-      <url>gitsite:git@github.com/ChangeVision/astah-plugin-archetype-plugin.git</url>
+      <url>gitsite:git@github.com/ChangeVision/astah-sysml-plugin-archetype-plugin.git</url>
     </site>
     <repository>
       <id>local</id>
@@ -71,7 +71,7 @@
 
   <description>Create astah* Plug-in project</description>
   <scm>
-    <developerConnection>scm:git:git@github.com:ChangeVision/astah-plugin-archetype-plugin.git</developerConnection>
-    <url>scm:git:git@github.com:ChangeVision/astah-plugin-archetype-plugin.git</url>
+    <developerConnection>scm:git:git@github.com:ChangeVision/astah-sysml-plugin-archetype-plugin.git</developerConnection>
+    <url>scm:git:git@github.com:ChangeVision/astah-sysml-plugin-archetype-plugin.git</url>
   </scm>
 </project>
